@@ -1,0 +1,13 @@
+{
+    "name": "Radar",
+    "type": "model",
+    "properties": {},
+    "location": {
+        "lat": 52.0949,
+        "lng": 5.1097,
+        "ele": 0,
+        "address": "Utrecht, The Netherlands"
+    },
+    "image": "https://tracks-earth.github.io/buildings/radar/model.png",
+    "uri": "https://tracks-earth.github.io/buildings/radar/model.glb"
+}
